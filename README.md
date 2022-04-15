@@ -1,2 +1,2 @@
-# Snake_game_inc++
+# Snake_game_in_c++
 I develop the snake game using c++.
